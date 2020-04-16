@@ -1,0 +1,40 @@
+.breadCrumb {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bcBox {
+    background-color: #21BBD1;
+    color: #fff;
+    font-size: 1.4em;
+    padding: 8px 15px 10px 15px;
+    margin-right: 10px;
+}
+
+.bcBox:hover {
+    cursor: pointer;
+    background-color: rgb(37, 206, 232);
+}
+
+.bcChildren {
+    margin-top: 5px;
+}
+
+.bcItem {
+    margin: 20px 10px 0 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.bcContainer {
+    text-align: center;
+    width: 100vw;
+}
+
+.bcFileText {
+    font-weight: bold;
+    font-size: 2em;
+    color: #E75936;
+    text-align: center;
+    margin-top: 30px;
+}
